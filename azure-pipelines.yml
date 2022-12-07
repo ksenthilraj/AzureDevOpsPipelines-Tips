@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: Visual Studio Enterprise(17b12858-3960-4e6f-a663-a06fdae23428)
+  subscription: Azure Pass - Sponsorship(b6840f67-3a14-47fb-bc39-4738ba2a7ee7)
   resourceGroup: tfstate
   storageAccount: tfstatejt09d
   container: tfstate
